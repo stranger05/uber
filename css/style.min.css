@@ -39,7 +39,7 @@ nav {
 
 .menu_link:hover {
   text-decoration: none;
-  color: #1eacc7;
+  color: red;
 }
 
 .menu_item {
@@ -105,8 +105,8 @@ nav {
           box-shadow: inset 0 -3px 0 rgba(0, 0, 0, 0.12);
   border: none;
   border-radius: 4px;
-  background-image: -webkit-gradient(linear, left bottom, left top, from(#1eacc7), to(#4ce2ff));
-  background-image: linear-gradient(to top, #1eacc7 0%, #4ce2ff 100%);
+  background-image: -webkit-gradient(linear, left bottom, left top, from(red), to(#4ce2ff));
+  background-image: linear-gradient(to top, red 0%, #4ce2ff 100%);
   text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.21);
   color: #ffffff;
   font-size: 14px;
@@ -116,7 +116,7 @@ nav {
 
 .subheader_btn:hover {
   background-image: none;
-  background-color: #1eacc7;
+  background-color: red;
 }
 
 .promo {
@@ -164,8 +164,8 @@ nav {
           box-shadow: inset 0 -4px 0 rgba(0, 0, 0, 0.12);
   border: none;
   border-radius: 4px;
-  background-image: -webkit-gradient(linear, left bottom, left top, from(#1eacc7), to(#4ce2ff));
-  background-image: linear-gradient(to top, #1eacc7 0%, #4ce2ff 100%);
+  background-image: -webkit-gradient(linear, left bottom, left top, from(red), to(#4ce2ff));
+  background-image: linear-gradient(to top, red 0%, #4ce2ff 100%);
   text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.21);
   color: #ffffff;
   font-size: 18px;
@@ -175,7 +175,7 @@ nav {
 
 .promo_btn:hover {
   background-image: none;
-  background-color: #1eacc7;
+  background-color: red;
 }
 
 .reasons {
@@ -208,7 +208,7 @@ nav {
   margin-right: 26px;
   width: 113px;
   height: 113px;
-  background-color: #1eacc7;
+  background-color: red;
   border-radius: 100%;
 }
 
@@ -218,7 +218,7 @@ nav {
 
 .reasons_subtitle {
   line-height: 21px;
-  color: #1eacc7;
+  color: red;
   font-size: 17px;
   font-weight: 400;
 }
@@ -365,7 +365,7 @@ nav {
   display: block;
   width: 14px;
   height: 2px;
-  background-color: #1eacc7;
+  background-color: red;
   -webkit-transition: 0.3s all;
   transition: 0.3s all;
 }
@@ -379,7 +379,7 @@ nav {
   display: block;
   height: 14px;
   width: 2px;
-  background-color: #1eacc7;
+  background-color: red;
   -webkit-transition: 0.3s all;
   transition: 0.3s all;
 }
@@ -931,8 +931,8 @@ footer a:hover {
     margin-top: 6px;
   }
   .subheader_btn:hover {
-    background-image: -webkit-gradient(linear, left bottom, left top, from(#1eacc7), to(#4ce2ff));
-    background-image: linear-gradient(to top, #1eacc7 0%, #4ce2ff 100%);
+    background-image: -webkit-gradient(linear, left bottom, left top, from(red), to(#4ce2ff));
+    background-image: linear-gradient(to top, red 0%, #4ce2ff 100%);
   }
   .promo {
     min-height: 400px;
@@ -959,8 +959,8 @@ footer a:hover {
     font-size: 16px;
   }
   .promo_btn:hover {
-    background-image: -webkit-gradient(linear, left bottom, left top, from(#1eacc7), to(#4ce2ff));
-    background-image: linear-gradient(to top, #1eacc7 0%, #4ce2ff 100%);
+    background-image: -webkit-gradient(linear, left bottom, left top, from(red), to(#4ce2ff));
+    background-image: linear-gradient(to top, red 0%, #4ce2ff 100%);
   }
   .menu {
     width: 85%;
@@ -1020,7 +1020,7 @@ footer a:hover {
     bottom: 28px;
   }
   .mobile_item_plus:hover:before, .mobile_item_plus:hover:after {
-    background-color: #1eacc7;
+    background-color: red;
   }
   .choice {
     padding: 25px 0 33px 0;
